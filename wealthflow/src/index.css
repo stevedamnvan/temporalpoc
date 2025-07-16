@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-background text-white font-sans;
+  @apply bg-bg text-text-primary font-sans min-h-screen;
 }
 
 h1, h2, h3, h4, h5, h6 {
