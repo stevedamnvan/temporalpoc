@@ -3,9 +3,11 @@
 @tailwind utilities;
 
 body {
-  @apply bg-background text-white font-sans;
+  background-color: #242424;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  @apply font-serif;
+  font-family: 'Lora', serif;
 }
